@@ -3,7 +3,7 @@
 !
 ! Good: example.org#@#.ad
 ! Bad:  @@||example.org^$stealth (should be in AdGuard Base - allowlist_stealth.txt)
-!
+! Info:
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/183523
 @@||yastatic.net/share2/share.js$domain=wdho.ru
